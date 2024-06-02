@@ -11,21 +11,10 @@ twitter-color: "#55acee"
 github-color: "#171516"
 blogger-color: "#F37100"
 ---
-I am a **Professor of Computer Science** at [Old Dominion University](https://www.odu.edu/).  I serve as the **Assistant Chair for Graduate Programs and Research** and the **Graduate Program Director (GPD) for the PhD Program** in the [Department of Computer Science](https://www.odu.edu/computer-science).  See our website for information on our graduate programs ([MS](https://www.odu.edu/computer-science/academics/graduate/masters), [PhD](https://www.odu.edu/computer-science/academics/graduate/phd)). If you need to contact a CS GPD, please use [csgpd@odu.edu](mailto:csgpd@odu.edu).
+I am a **Research Scientist** at [Shandong University](https://www.sdu.edu.cn/). For an overview of my research over the past few years, I have been focusing on the development of compuational method for biomarker discovery, drug-target interaction prediction, and machine learning models.
 
-For an overview of my research over the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for [*SSRC Parameters*](https://items.ssrc.org/category/parameters/) in 2018. I recently gave an [interview covering my background, our research group, and challenges facing web archive collections](https://circulatingnow.nlm.nih.gov/2022/11/10/whats-in-a-web-archive-collection-summarization-and-discovery-of-archived-webpages/) for the National Library of Medicine's [*Circulating Now* blog](https://circulatingnow.nlm.nih.gov/). I'm currently featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342), where you can read a bit more about my background and experiences as a woman in computer science. For more information on my education and work experience, see my [bio](#bio).
+**Research Interests:** Biomedical data minining, biomarker discovery, machine learning, deep learning.
 
-**Research Interests:** web science, social media, web archiving, information visualization (see some student infovis projects in  my [infovis gallery](https://www.cs.odu.edu/~mweigle/research/gallery.html))
-
-## Teaching
-
-**Fall 2024**
-
-CS 625 - Data Visualization / online asynchronous - *content will be similar to [CS 625, Fall 2023](https://github.com/odu-cs625-datavis/public-fall23-mcw/blob/main/syllabus.md)*
-
-**Spring 2024**
-
-[CS 725/825 - Information Visualization & Data Analytics](/teaching/2024-spr-cs725825) / MW 3-4:15pm, ECSB 2120
 
 ## Research
 
