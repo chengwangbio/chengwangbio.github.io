@@ -1,70 +1,28 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: ""
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - /home/
-twitter-color: "#55acee"
-github-color: "#171516"
-blogger-color: "#F37100"
 ---
-I am a **Research Scientist** at [Shandong University](https://www.sdu.edu.cn/). For an overview of my research over the past few years, I have been focusing on the development of compuational method for biomarker discovery, drug-target interaction prediction, and machine learning models.
 
-**Research Interests:** Biomedical data minining, biomarker discovery, machine learning, deep learning.
+Welcome! I am a data scientist applying machine learning tools and causal
+inference techniques to remote sensing data. I am an affiliated
+researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
+and a research collaborator with the 
+[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
 
-
-## Research
-
-I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group.  
-
-<a href="https://oduwsdl.github.io/" target="_blank" class="btn btn--mcw"><i class="fas fa-fw fa-link"></i><span> WS-DL Webpage</span></a>
-<a href="https://twitter.com/WebSciDL" target="_blank" class="btn btn--mcw"><i class="fab fa-twitter" style="color: {{ page.twitter-color }}"></i><span> WS-DL Twitter</span></a>
-<a href="https://ws-dl.blogspot.com/" target="_blank" class="btn btn--mcw"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i><span> WS-DL Blog</span></a>
-<a href="https://github.com/oduwsdl" target="_blank" class="btn btn--mcw"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i><span> WS-DL GitHub</span></a>
-{: style="text-align: center;"}
-
-{% for post in site.publications reversed %}
-  {% if post.type == "recent" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-## Active Funding
-
-* Cheng Wang (PI), Research on Metabolomic Pseudo-mass Spectrometry Imaging Feature Screening Method Based on Variational Self-coding Nonlinear Dimensionality Reduction, National Natural Science Foundation of China, Jan 2024 - Dec 2026, ￥300,000.
-
-
-*My full funding list is available in my [CV](https://chengwangbio.github.io/cv/).*
-
-## Service
-
-* ODU-CS Assistant Chair for Graduate Programs and Research, 2024-present
-* ODU-CS Graduate Program Director, 2013-2019, 2022-present
-* Editorial Board
-  * [*Journal of the Association for Information Science and Technology*](https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard) (JASIST) (2016-present)
-  * [*International Journal on Digital Libraries*](https://www.springer.com/computer/database+management+&+information+retrieval/journal/799/PS2?detailsPage=editorialBoard) (IJDL) (2018-present)
-* Steering Committee Member, ACM/IEEE Joint Conference on Digital Libraries (JCDL) (2020-present)
-* Faculty Representative, [NCWIT Academic Alliance](https://www.ncwit.org/alliances/aa)
-* Program Co-Chair, ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2016
-* Faculty Advisor, ACM-W @ ODU, 2013-2022
-
-
-## Bio
-
-Dr. Cheng Wang is a Professor of Computer Science at Shandong University. His research interests include web science, social media, web archiving, and information visualization. She has published over 115 articles in peer-reviewed conferences and journals and has served as PI or Co-PI on external research grants totaling $6M from a wide range of funders, including the National Science Foundation, the National Endowment for the Humanities, the Institute of Museum and Library Services, and the Andrew W. Mellon Foundation. She currently serves on the editorial boards of the *Journal of the Association for Information Science and Technology* (JASIST) and the *International Journal on Digital Libraries* (IJDL). Dr. Weigle received her PhD in computer science from the University of North Carolina in 2003.
-
-### Academic Timeline
-
-* July 2018 - present, Professor, [Computer Science](https://www.cs.odu.edu/), [Old Dominion University](https://www.odu.edu/)
-* July 2012 - July 2018, Associate Professor, Computer Science, Old Dominion University
-* July 2006 - July 2012, Assistant Professor, Computer Science, Old Dominion University
-* July 2004 - July 2006, Assistant Professor, [Computer Science](http://www.clemson.edu/ces/departments/computing/), [Clemson University](http://www.clemson.edu)
-* August 2003 - June 2004, Visiting Assistant Professor, Computer Science, University of North Carolina
-* August 2003, Ph.D., [Computer Science](https://www.cs.unc.edu), [University of North Carolina](https://www.unc.edu)
-* May 1998, M.S., Computer Science, University of North Carolina
-* May 1996, B.S., [Computer Science](http://www.ulm.edu/cba/computerscience/index.html) ([Honors Program](http://www.ulm.edu/honors)), Northeast Louisiana University (now [University of Louisiana at Monroe](http://www.ulm.edu))
-  
-<iframe width="300" src="https://www.youtube.com/embed/FVIg42xHlvQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+I earned my PhD in Political Science from the
+[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
+BA in Political Science from [Haverford College](https://www.haverford.edu).
+My academic work has been [published](publications) or is forthcoming in the
+*American Political Science Review*, *International Studies Quarterly*,
+*Conflict Management and Peace Science*, and
+*Political Science Research and Methods*, among other outlets. This
+[research](research) explores the causes and consequences of political violence
+using a broad variety of methods such as latent variable models, geospatial
+analysis, and big data. I have [taught](teaching) quantitative methodology and
+international relations, and am a certified instructor with
+[The Carpentries](https://carpentries.org).
