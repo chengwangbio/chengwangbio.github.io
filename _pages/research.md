@@ -7,6 +7,8 @@ header:
   og_image: "research/ecdf.png"
 ---
 
+I am an associate research scientist in the field of bioinformatics currently working at Shandong University, China. My research has particularly focused on developing computational and experimental approaches to identify novel metabolic biomarkers in cancer and neurodegenerative disease. 
+
 My academic research falls into two main areas: understanding the influence of
 geography on actor behavior before, during, and after civil conflict, and
 developing new tools to improve the study of institutions (both formal and
