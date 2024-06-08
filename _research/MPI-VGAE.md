@@ -1,5 +1,5 @@
 ---
-title: "MPI-VGAE"
+title: "MPI-VGAE: protein–metabolite enzymatic reaction link prediction"
 layout: single-portfolio
 excerpt: "<img src='/images/research/2023-bib.png' alt=''>"
 collection: research
