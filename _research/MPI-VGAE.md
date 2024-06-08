@@ -14,4 +14,4 @@ header:
 Here, we present a Variational Graph Autoencoders (VGAE)-based framework to predict metabolite–protein interactions (MPI) across ten organisms. The MPI-VGAE predictor achieved the best predictive performance compared to other state-of-the-art methods. The MPI-VGAE framework has been applied to reconstruct MPI networks in Alzheimer’s disease and colorectal cancer and identify new enzymatic reaction links. This study highlights the potential of the MPI-VGAE framework for discovering unknown enzymatic reactions and facilitating the study of disrupted metabolisms in diseases.
 
 
-[Article](https://academic.oup.com/bib/article/24/4/bbad189/7176311){: .btn--research} [Preprint](/files/pdf/research/MPI-VGAE- protein–metabolite enzymatic reaction link learning by variational graph autoencoders.pdf){: .btn--research}
+[Article](https://academic.oup.com/bib/article/24/4/bbad189/7176311){: .btn--research} [Bioinformatics](/files/pdf/research/MPI-VGAE- protein–metabolite enzymatic reaction link learning by variational graph autoencoders.pdf){: .btn--research}
