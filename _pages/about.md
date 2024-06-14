@@ -19,20 +19,28 @@ My academic work has been [published](publications) or is forthcoming in the
 
 ## Education
 
-The Ohio State University, Columbus, OH, USA, 2014-2019
-Ph.D. Chemistry (Bioinformatics) 		 			                                             
+The Ohio State University, Columbus, OH, USA, 2014-2019 
+***
+Ph.D. Chemistry (Bioinformatics)
+***			                                             
 Advisor: Prof. Rafael Brüschweiler
+***
 Indiana University, Bloomington, IN, USA, 2017-2019
-M.S. Data Science (Machine learning)		 			                                 
+***
+M.S. Data Science (Machine learning)
+***		 			                                 
 China University of Petroleum, Qingdao, China, 2009-2013
+***
 B.S. Applied Chemistry (Cheminformatics)				                                             
-
 
 ## Experience
 
 Washington University in St. Louis, St. Louis, MO, 06/2020-06/2021
+***
 Postdoctoral Researcher
+***
 The Ohio State University, Columbus, OH, 05/2016-12/2019
+***
 Graduate Research Assistant 
 
 
