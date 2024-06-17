@@ -4,35 +4,26 @@ title: "Research Talk and Presentations"
 ---
 
 {% include base_path %}
-{% include toc %}
+<!-- {% include toc %} -->
 
-## Privacy Policy
+## Invited Talk and Presentations
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+### Lab seminar
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+* The Butte Lab, University of California, San Francisco, 02/2024 <br>
+"Genome scale enzymatic reaction learning by graph neural network"
+* van Dijk lab, Yale University, 07/2023 <br>
+"Machine learning and cheminformatics approaches in metabolomics and multi-omics study"
 
-### Log Files
+### Conferences
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
-
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
-
-All of this information is not linked to anything that is personally identifiable.
-
-### Cookies and Web Beacons
-
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+* Oral talk, 18th Annual Conference of the Metabolomics Society, Online, 06/2021 <br>
+"Protein–metabolite Enzymatic Reaction Link Learning by Graph Neural Network" <br>
+* Oral talk, 2nd Annual MANA Conference, Seattle, WA, 09/2020 <br>
+"COLMAR Lipids Web Server and Ultrahigh-Resolution Methods for Two-Dimensional Nuclear Magnetic Resonance-and Mass Spectrometry-Based Lipidomics" <br>
+* Oral talk, 3rd Gateway NMR Conference, Pittsburgh, PA, 11/2018 <br>
+"Accurate Identification of Known and Unknown Metabolites by Multidimensional NMR and Customized Metabolite Database" <br>
+* Oral talk, 14th Annual Conference of the Metabolomics Society, Seattle, WA, 06/2018
+"Accurate Identification of Known and Unknown Metabolites by Multidimensional NMR and Customized Metabolite Database"
+* Oral talk, 2nd Annual Ohio Mass Spectrometry and Metabolomics Symposium, 05/2018 
+"Accurate Identification of Known and Unknown Metabolites in Gallbladder Bile by Multidimensional NMR and Customized Metabolite Database"
