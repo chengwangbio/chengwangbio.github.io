@@ -6,16 +6,14 @@ title: "Research Talk and Presentations"
 {% include base_path %}
 <!-- {% include toc %} -->
 
-## Invited Talk and Presentations
-
-### Lab seminar
+## Lab seminar
 
 * The Butte Lab, University of California, San Francisco, 02/2024 <br>
 "Genome scale enzymatic reaction learning by graph neural network"
 * van Dijk lab, Yale University, 07/2023 <br>
 "Machine learning and cheminformatics approaches in metabolomics and multi-omics study"
 
-### Conferences
+## Conferences
 
 * Oral talk, 18th Annual Conference of the Metabolomics Society, Online, 06/2021 <br>
 "Protein–metabolite Enzymatic Reaction Link Learning by Graph Neural Network" <br>
@@ -23,7 +21,7 @@ title: "Research Talk and Presentations"
 "COLMAR Lipids Web Server and Ultrahigh-Resolution Methods for Two-Dimensional Nuclear Magnetic Resonance-and Mass Spectrometry-Based Lipidomics" <br>
 * Oral talk, 3rd Gateway NMR Conference, Pittsburgh, PA, 11/2018 <br>
 "Accurate Identification of Known and Unknown Metabolites by Multidimensional NMR and Customized Metabolite Database" <br>
-* Oral talk, 14th Annual Conference of the Metabolomics Society, Seattle, WA, 06/2018
-"Accurate Identification of Known and Unknown Metabolites by Multidimensional NMR and Customized Metabolite Database"
-* Oral talk, 2nd Annual Ohio Mass Spectrometry and Metabolomics Symposium, 05/2018 
+* Oral talk, 14th Annual Conference of the Metabolomics Society, Seattle, WA, 06/2018 <br>
+"Accurate Identification of Known and Unknown Metabolites by Multidimensional NMR and Customized Metabolite Database" <br>
+* Oral talk, 2nd Annual Ohio Mass Spectrometry and Metabolomics Symposium, 05/2018 <br>
 "Accurate Identification of Known and Unknown Metabolites in Gallbladder Bile by Multidimensional NMR and Customized Metabolite Database"
