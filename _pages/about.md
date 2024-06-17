@@ -16,15 +16,13 @@ Welcome! I am a research scientist at Shandong University developing machine lea
 Graph neural network, machine learning, metabolomics, multi-omics, drug discovery
 
 ## Education
-<div style="text-align: justify;">
+
 * Ph.D. Chemistry (Bioinformatics), The Ohio State University, Columbus, OH, USA, 2014-2019
 * M.S. Data Science (Machine learning), Indiana University, Bloomington, IN, USA, 2017-2019
 * B.S. Applied Chemistry (Cheminformatics), China University of Petroleum, Qingdao, China, 2009-2013
-</div>
 
 ## Work Experience
-<div style="text-align: justify;">
+
 * Research Scientist, Shandong University, Shandong, China, 06/2021-Present
 * Postdoctoral Researcher, Washington University in St. Louis, St. Louis, MO, 06/2020-06/2021
 * Graduate Research Assistant, The Ohio State University, Columbus, OH, 05/2016-12/2019
-</div>

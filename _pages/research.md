@@ -6,9 +6,8 @@ author_profile: true
 header:
   og_image: "research/2023-bib.png"
 ---
-<div style="text-align: justify;">
+
 I am an associate research scientist in the field of bioinformatics currently working at Shandong University, China. My research has particularly focused on developing computational and experimental approaches to identify novel metabolic biomarkers in cancer and neurodegenerative disease. 
-</div>
 
 {% include base_path %}
 
