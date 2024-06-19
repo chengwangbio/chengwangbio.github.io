@@ -249,7 +249,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _join
+  - scope:
+      path: ""
+      type: join
+    values:
+      layout: join
+      author_profile: true
+      share: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
