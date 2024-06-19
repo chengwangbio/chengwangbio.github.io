@@ -249,6 +249,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _team
+  - scope:
+      path: ""
+      type: team
+    values:
+      layout: team
+      author_profile: true
+      share: true
   # _join
   - scope:
       path: ""

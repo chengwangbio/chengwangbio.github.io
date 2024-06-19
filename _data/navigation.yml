@@ -12,6 +12,9 @@ main:
   - title: "Talk"
     url: /talk/
 
+  - title: "Team"
+    url: /team/
+
   # - title: "Posts"
   #   url: /posts/
     
