@@ -21,8 +21,6 @@ Are you passionate about computational biology, machine learning, and deep learn
 * Strong interest in computational biology, machine learning, and deep learning
 * Relevant educational background and/or research experience in these areas
 * Excellent problem-solving skills and the ability to work independently and as part of a team
-If you are enthusiastic about advancing cancer research through computational approaches, we would love to hear from you.
 
 ### How to Apply:
-Please send your CV and a brief statement of your research interests to chengwangsdu@outlook.com.
-
+Please send your CV and a brief statement of your research interests to chengwangsdu@outlook.com. If you are enthusiastic about advancing cancer research through computational approaches, we would love to hear from you.
