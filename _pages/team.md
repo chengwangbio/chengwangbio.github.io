@@ -10,7 +10,7 @@ header:
 {% include base_path %}
 
 <div style="margin-bottom: 2em;">
-    <img src="{{ 'team/2023-bib.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    <img src="{{ 'team/morinlab_pool_2022_crop.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
 
 <div class="lab-wrapper">
