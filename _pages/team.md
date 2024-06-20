@@ -8,7 +8,7 @@ header:
 ---
 
 <div style="margin-bottom: 2em;">
-    <img src="{{ 'team/group_photo.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    <img src="{{ 'team/group_photo.png' | prepend: site.images_dir | prepend: site.baseurl }}" style="width: 300px; height: 300px;" />
 </div>
 
 <div class="lab-team">
