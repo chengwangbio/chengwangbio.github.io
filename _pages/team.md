@@ -7,9 +7,9 @@ header:
   og_image: 
 ---
 
-<div style="margin-bottom: 2em;">
+<!-- <div style="margin-bottom: 2em;">
     <img src="{{ 'team/group_photo.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
-</div>
+</div> -->
 
 <div class="lab-team">
     <ul class="team-list">
