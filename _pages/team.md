@@ -4,38 +4,40 @@ title: "Team"
 permalink: /team/
 author_profile: true
 header:
-  og_image: "profile.png"
+  og_image: 
 ---
 
 {% include base_path %}
-<!-- Debug: Check if og_image is being used correctly -->
-<img src="{{ site.baseurl }}/images/profile.png" alt="Profile Image">
 
-<!-- Current PIs -->
-{% for member in site.data.team %}
-    {% if member.is_current and member.is_pi %}
-        {% if member.name and member.bio %}
-            {% include member.html %}
-        {% endif %}
-    {% endif %}
-{% endfor %}
-<!-- Current non-PIs -->
-{% for member in site.data.team %}
-    {% if member.is_current and member.is_pi == false %}
-        {% if member.name and member.bio %}
-            {% include member.html %}
-        {% endif %}
-    {% endif %}
-{% endfor %}
-<!-- Non-current (alumni) -->
-<!-- {% assign alumni_size = site.data.team | size %}
-{% if alumni_size > 0 %}
-    <h1 class="post-title">Alumni</h1>
+<div class="lab-team">
+    <ul class="team-list">
+    <!-- Current PIs -->
     {% for member in site.data.team %}
-        {% if member.is_current == false %}
+        {% if member.is_current and member.is_pi %}
             {% if member.name and member.bio %}
                 {% include member.html %}
             {% endif %}
         {% endif %}
     {% endfor %}
-{% endif %} -->
+    <!-- Current non-PIs -->
+    {% for member in site.data.team %}
+        {% if member.is_current and member.is_pi == false %}
+            {% if member.name and member.bio %}
+                {% include member.html %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+    <!-- Non-current (alumni) -->
+    <!-- {% assign alumni_size = site.data.team | size %}
+    {% if alumni_size > 0 %}
+        <h1 class="post-title">Alumni</h1>
+        {% for member in site.data.team %}
+            {% if member.is_current == false %}
+                {% if member.name and member.bio %}
+                    {% include member.html %}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    {% endif %} -->
+    </ul>
+</div>
