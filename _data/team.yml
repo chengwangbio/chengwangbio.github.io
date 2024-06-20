@@ -2,32 +2,33 @@
   is_pi: True
   is_current: True
   position: Research Scientist
-  orcid:  
-  scholar: 
-  researchgate: 
+  orcid: http://orcid.org/0000-0001-8135-4473
+  scholar: https://scholar.google.com/citations?user=UAZhchQAAAAJ&hl=en 
   github: 
-  bio:
-  photo: 
+  bio: >
+    I am a research scientist in the field of bioinformatics currently working at Shandong University, China. 
+    My research has particularly focused on developing computational and experimental approaches to identify novel metabolic biomarkers in cancer 
+    and neurodegenerative disease. 
+  photo: team/lhilton.jpg
 
-
-# - name: Dr. Laura Hilton
-#   is_pi: False
-#   is_current: True
-#   position: Staff Scientist, BC Cancer Centre for Lymphoid Cancer
-#   github: https://github.com/lkhilton
-#   orcid: https://orcid.org/0000-0002-6413-6586
-#   bio: >
-#     B-cell non-Hodgkin lymphomas have a high frequency of driver structural
-#     variants, especially those that involve placing the oncogenes MYC, BCL2,
-#     BCL6, and CCND1 under the control of potent immunoglobulin enhancers.
-#     My project utilizes whole genome and targeted sequencing to characterize
-#     these driver SVs across B-NHLs with a goal of understanding the mechanisms
-#     by which they arise. I'm also interested in using gene expression and
-#     mutation data to facilitate the classification of rare and/or poorly
-#     characterized lymphomas, to identify progonostic and predictive biomarkers
-#     and targetable vulnerabilities that can be exploited in the development
-#     of novel therapies.
-#   photo: team/lhilton.jpg
+- name: Dr. Laura Hilton
+  is_pi: False
+  is_current: True
+  position: Staff Scientist, BC Cancer Centre for Lymphoid Cancer
+  github: https://github.com/lkhilton
+  orcid: https://orcid.org/0000-0002-6413-6586
+  bio: >
+    B-cell non-Hodgkin lymphomas have a high frequency of driver structural
+    variants, especially those that involve placing the oncogenes MYC, BCL2,
+    BCL6, and CCND1 under the control of potent immunoglobulin enhancers.
+    My project utilizes whole genome and targeted sequencing to characterize
+    these driver SVs across B-NHLs with a goal of understanding the mechanisms
+    by which they arise. I'm also interested in using gene expression and
+    mutation data to facilitate the classification of rare and/or poorly
+    characterized lymphomas, to identify progonostic and predictive biomarkers
+    and targetable vulnerabilities that can be exploited in the development
+    of novel therapies.
+  photo: team/lhilton.jpg
 
 # - name: Dr. Krysta Coyle
 #   is_pi: False

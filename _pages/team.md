@@ -9,12 +9,8 @@ header:
 
 {% include base_path %}
 
-<div style="margin-bottom: 2em;">
-    <img src="{{ 'team/morinlab_pool_2022_crop.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
-</div>
-
-<div class="lab-wrapper">
-    <ul class="lab-list">
+<div class="lab-team">
+    <ul class="team-list">
     <!-- Current PIs -->
     {% for member in site.data.team %}
         {% if member.is_current and member.is_pi %}
@@ -32,7 +28,7 @@ header:
         {% endif %}
     {% endfor %}
     <!-- Non-current (alumni) -->
-    {% assign alumni_size = site.data.team | size %}
+    <!-- {% assign alumni_size = site.data.team | size %}
     {% if alumni_size > 0 %}
         <h1 class="post-title">Alumni</h1>
         {% for member in site.data.team %}
@@ -42,6 +38,6 @@ header:
                 {% endif %}
             {% endif %}
         {% endfor %}
-    {% endif %}
+    {% endif %} -->
     </ul>
 </div>
