@@ -9,26 +9,29 @@
     I am a research scientist in the field of bioinformatics currently working at Shandong University, China. 
     My research has particularly focused on developing computational and experimental approaches to identify novel metabolic biomarkers in cancer 
     and neurodegenerative disease. 
-  photo: team/lhilton.jpg
+  photo: 
 
-- name: Dr. Laura Hilton
+- name: Yuying Shi
   is_pi: False
   is_current: True
-  position: Staff Scientist, BC Cancer Centre for Lymphoid Cancer
-  github: https://github.com/lkhilton
-  orcid: https://orcid.org/0000-0002-6413-6586
+  position: Graduate Student, Department of Bioinformatics, Shandong University
+  github: 
+  orcid: 
   bio: >
-    B-cell non-Hodgkin lymphomas have a high frequency of driver structural
-    variants, especially those that involve placing the oncogenes MYC, BCL2,
-    BCL6, and CCND1 under the control of potent immunoglobulin enhancers.
-    My project utilizes whole genome and targeted sequencing to characterize
-    these driver SVs across B-NHLs with a goal of understanding the mechanisms
-    by which they arise. I'm also interested in using gene expression and
-    mutation data to facilitate the classification of rare and/or poorly
-    characterized lymphomas, to identify progonostic and predictive biomarkers
-    and targetable vulnerabilities that can be exploited in the development
-    of novel therapies.
-  photo: team/lhilton.jpg
+    I am a graduate student in the Department of Bioinformatics at Shandong University, China. 
+    My research focuses on the development of computational methods for the analysis of metabolomics data.
+  photo: 
+
+- name: Qitao Chen
+  is_pi: False
+  is_current: True
+  position: Graduate Student, Department of Bioinformatics, Shandong University
+  github: 
+  orcid: 
+  bio: >
+    I am a graduate student in the Department of Bioinformatics at Shandong University, China. 
+    My research focuses on the development of computational methods for the analysis of imaging data.
+  photo: 
 
 # - name: Dr. Krysta Coyle
 #   is_pi: False
