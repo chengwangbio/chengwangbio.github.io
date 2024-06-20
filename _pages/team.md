@@ -7,7 +7,9 @@ header:
   og_image: 
 ---
 
-{% include base_path %}
+<div style="margin-bottom: 2em;">
+    <img src="{{ 'team/morinlab_pool_2022_crop.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
+</div>
 
 <div class="lab-team">
     <ul class="team-list">
