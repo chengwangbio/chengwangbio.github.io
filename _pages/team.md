@@ -8,6 +8,8 @@ header:
 ---
 
 {% include base_path %}
+<!-- Debug: Check if og_image is being used correctly -->
+<img src="{{ site.baseurl }}/images/profile.png" alt="Profile Image">
 
 <!-- Current PIs -->
 {% for member in site.data.team %}
