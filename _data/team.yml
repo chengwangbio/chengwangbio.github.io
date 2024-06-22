@@ -1,12 +1,12 @@
 - name: Dr. Cheng Wang
   is_pi: True
   is_current: True
-  position: Research Scientist, Department of Biostatistics, Shandong University
+  position: Assistant Professor, Department of Biostatistics, Shandong University
   orcid: http://orcid.org/0000-0001-8135-4473
   scholar: https://scholar.google.com/citations?user=UAZhchQAAAAJ&hl=en 
   github: 
   bio: >
-    I am a research scientist in the field of bioinformatics currently working at Shandong University, China. 
+    I am an assistant professor in the field of bioinformatics currently working at Shandong University, China. 
     My research has particularly focused on developing computational and experimental approaches to identify novel metabolic biomarkers in cancer 
     and neurodegenerative disease. 
   photo: 
