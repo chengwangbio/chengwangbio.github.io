@@ -29,5 +29,3 @@ Graph neural network, machine learning, metabolomics, multi-omics, drug discover
 
 ## Contact
 Cheng Wang, chengwangsdu[AT]outlook.com
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=8s4ySIzPl8kB0qGDKChN4QulHcPY92hTcXe-nmuGcOk&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
