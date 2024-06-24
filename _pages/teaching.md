@@ -3,6 +3,13 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+I am teaching big data and bioinformatics courses at Shandong University for undergraduates, including big data techniques and applications, medical statistics, and machine learning in biomedical data mining. If you have any specific questions about course topics, feel free to message me.
+
+## Shandong Univeristy
+- Medical statistics (Spring 2023)
+- Big data techniques and applications (Summer 2022, 2023)
+- Machine learning in biomedical data mining (Spring 2024)
+
 <!-- Research plays a central role in my teaching as students improve their
 analytical skills and master the tools of data analysis through hands-on
 experience. I have taught undergraduate courses on political violence and
