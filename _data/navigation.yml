@@ -6,8 +6,8 @@ main:
   - title: "Research"
     url: /research/
 
-  # - title: "Teaching"
-  #   url: /teaching/
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Talk"
     url: /talk/
@@ -15,8 +15,8 @@ main:
   - title: "Team"
     url: /team/
 
-  # - title: "Posts"
-  #   url: /posts/
+  - title: "Posts"
+    url: /posts/
     
   - title: "CV"
     url: /cv/
