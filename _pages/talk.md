@@ -8,7 +8,7 @@ title: "Research Talk and Presentations"
 
 ## Conferences
 
-* Oral talk, Artificial Intelligence for BioPharma Conference 2024, Shanghai China, 06/2024 <br>
+* Oral talk, Artificial Intelligence for BioPharma Conference 2024, Shanghai, China, 06/2024 <br>
 "Drug target discovery based on graph generative neural network" <br>
 * Oral talk, The 3rd Annual Conference of the Metabolomics Division of the Biophysical Society of China, Xiamen, China, 10/2023 <br>
 "Enzymatic Reaction Prediction by Graph Neural Networks" <br>
