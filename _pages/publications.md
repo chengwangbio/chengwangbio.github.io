@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% if author.googlescholar %}
-  You can also find my publications on <a href="{{author.googlescholar}}" target="_blank">my Google Scholar profile</a>.
+  You can also find the full list of my publications on <a href="{{author.googlescholar}}" target="_blank">my Google Scholar profile</a>.
 {% endif %}
 
 {% include base_path %}
