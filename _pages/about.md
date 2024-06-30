@@ -9,26 +9,23 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-Welcome! I am an assistant professor at Shandong University developing machine learning methods for omics biomarker discovery. I completed my PhD specialized in computational biology in 2020 under the advisory of Prof. Rafael Brüschweiler at The Ohio State University, USA. My PhD research focused on developing computational methods for the identification of small molecules (metabolites and drugs) by combining metabolomics data and cheminformatics methods. After that, I worked as a postdoctoral researcher in Gary Patti's lab at Washington University in St. Louis, with a focus on integrating machine learning and multi-omics data to predict enzymatic reactions and drug-like molecule properties. To date, my academic work has been <a href="publications">published</a> or is forthcoming in the <i>Briefings in bioinformatics</i>, <i>Analytical Chemistry</i>, <i>Journal of Chemical Information and Modeling</i>, and <i>Journal of Translational Medicine</i>, among other outlets. This <a href="research">research</a> leverages machine learning models such as graph neural network for small molecule identification.
+Welcome! I am an assistant professor at Shandong University developing machine learning methods for omics biomarker discovery. I completed my PhD specialized in computational biology in 2019 under the advisory of Prof. Rafael Brüschweiler at The Ohio State University, USA. My PhD research focused on developing computational methods for the identification of small molecules (metabolites and drugs) by combining metabolomics data and cheminformatics methods. After that, I worked as a postdoctoral researcher in Gary Patti's lab at Washington University in St. Louis, with a focus on integrating machine learning and multi-omics data to predict enzymatic reactions and drug-like molecule properties. To date, my academic work has been <a href="publications">published</a> or is forthcoming in the <i>Briefings in Bioinformatics</i>, <i>Analytical Chemistry</i>, <i>Journal of Chemical Information and Modeling</i>, and <i>Journal of Translational Medicine</i>, among other outlets. This <a href="research">research</a> leverages machine learning models such as graph neural network for small molecule identification.
 </div>
 
 ## Research Interest
 Graph neural network, machine learning, metabolomics, multi-omics, drug discovery
 
 ## Education
-
 * Ph.D. Chemistry (Bioinformatics), The Ohio State University, Columbus, OH, USA, 2014-2019
 * M.S. Data Science (Machine learning), Indiana University, Bloomington, IN, USA, 2017-2019
 * B.S. Applied Chemistry (Cheminformatics), China University of Petroleum, Qingdao, China, 2009-2013
 
 ## Work Experience
-
 * Assistant Professor, Shandong University, Shandong, China, 06/2021-Present
 * Postdoctoral Researcher, Washington University in St. Louis, St. Louis, MO, 06/2020-06/2021
 * Graduate Research Assistant, The Ohio State University, Columbus, OH, 05/2016-12/2019
 
 ## Selected Publications
-
 1.	Wang, C.,+* Yuan, C.,+ Wang, Y.,+ Shi, Y., Zhang, T. and Patti, G.J.,* 2024. Prediction of Collision Cross-Section Values by Multimodal Graph Attention Network for Accurate Identification of Small Molecules. Journal of Chemical Information and Modeling (Accepted). 
 2.	Wang, C., Yuan, C., Wang, Y., Chen, R., Shi, Y., Zhang, T., Xue, F., Patti, G.J.,* Wei, L.* and Hou, Q.,* 2023. MPI-VGAE: protein–metabolite enzymatic reaction link learning by variational graph autoencoders. Briefings in Bioinformatics, p.bbad189.
 3.	Wang, C., Timári, I., Zhang, B., Li, D.W., Leggett, A., Amer, A.O., Bruschweiler-Li, L., Kopec, R.E. and Brüschweiler, R.,* 2020. COLMAR Lipids Web Server and Ultrahigh-Resolution Methods for Two-Dimensional Nuclear Magnetic Resonance-and Mass Spectrometry-Based Lipidomics. Journal of proteome research, 19(4), pp.1674-1683.
@@ -42,7 +39,7 @@ Graph neural network, machine learning, metabolomics, multi-omics, drug discover
 “Research on Structural Identification of Metabolites Based on Density Functional Theory and Deep Learning”
 3.	Principal investigator, 500,000 RMB, Future Young Schoar of Shandong University, 2022-2026 <br>
 “Integrative Multi-omics Analysis by Deep Learning”
-4.	Co-PI, 200,000 RMB, "2030 Science and Technology Innovation - 'Brain Science and Neuromimetic Research' Major Project", 2022-2026 <br>
+4.	Co-PI, 200,000 RMB, "2030 Science and Technology Innovation-'Brain Science and Neuromimetic Research' Major Project", 2022-2026 <br>
 "Alzheimer's Disease and Other Dementia Clinical Cohort Study"
 5.	Principal investigator, 150,000 RMB, Shandong First-Medical University, 2022-2024 <br>
 “Investigation of Gastric Biomarkers by Mass Spectrometry Imaging”
