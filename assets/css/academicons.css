@@ -325,3 +325,8 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+/* CSS for images */
+.show-image {
+  width: 100%;
+  height: auto;
+}
