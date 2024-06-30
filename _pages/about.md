@@ -36,15 +36,15 @@ Graph neural network, machine learning, metabolomics, multi-omics, drug discover
 5.	Wang, C.,+ He, L.,+ Li, D.W.,+ Bruschweiler-Li, L., Marshall, A.G. * and Brüschweiler, R.,* 2017. Accurate identification of unknown and known metabolic mixture components by combining 3D NMR with fourier transform ion cyclotron resonance tandem mass spectrometry. Journal of proteome research, 16(10), pp.3774-3786.
 
 ## Fundings and Grants
-1.	Principal investigator, 300,000 RMB, National Natural Science Foundation of China, 2024-2026
+1.	Principal investigator, 300,000 RMB, National Natural Science Foundation of China, 2024-2026 <br>
 “Research on Metabolomic Pseudo-mass Spectrometry Imaging Feature Screening Method Based on Variational Self-coding Nonlinear Dimensionality Reduction”
-2.	Principal investigator, 150,000 RMB, Natural Science Foundation of Shandong Province, 2023-2025
+2.	Principal investigator, 150,000 RMB, Natural Science Foundation of Shandong Province, 2023-2025 <br>
 “Research on Structural Identification of Metabolites Based on Density Functional Theory and Deep Learning”
-3.	Principal investigator, 500,000 RMB, Future Young Schoar of Shandong University, 2022-2026
+3.	Principal investigator, 500,000 RMB, Future Young Schoar of Shandong University, 2022-2026 <br>
 “Integrative Multi-omics Analysis by Deep Learning”
-4.	Co-PI, 200,000 RMB, "2030 Science and Technology Innovation - 'Brain Science and Neuromimetic Research' Major Project", 2022-2026
+4.	Co-PI, 200,000 RMB, "2030 Science and Technology Innovation - 'Brain Science and Neuromimetic Research' Major Project", 2022-2026 <br>
 "Alzheimer's Disease and Other Dementia Clinical Cohort Study"
-5.	Principal investigator, 150,000 RMB, Shandong First-Medical University, 2022-2024
+5.	Principal investigator, 150,000 RMB, Shandong First-Medical University, 2022-2024 <br>
 “Investigation of Gastric Biomarkers by Mass Spectrometry Imaging”
 
 ## Contact

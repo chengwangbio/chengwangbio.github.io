@@ -11,7 +11,7 @@ I am an Assistant Professor in the field of bioinformatics currently working at 
 
 {% include base_path %}
 
-{% assign ordered_pages = site.research | sort:"order_number" %}
+{% assign ordered_pages = site.research | sort:"order_number" | reverse %}
 
 {% for post in ordered_pages %}
   {% include archive-single.html type="list" %}
