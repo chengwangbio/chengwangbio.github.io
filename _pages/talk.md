@@ -8,8 +8,10 @@ title: "Research Talk and Presentations"
 
 ## Conferences
 
+* Oral talk, The 3rd Multi-Omics Research and Clinical Application Seminar, Beijing, China, 07/2024 <br>
+"Graph Neural Networks in Metabolomics Study"
 * Oral talk, Artificial Intelligence for BioPharma Conference 2024, Shanghai, China, 06/2024 <br>
-"Drug target discovery based on graph generative neural network" <br>
+"Drug Target Discovery based on Graph Generative Neural Networks" <br>
 * Oral talk, The 3rd Annual Conference of the Metabolomics Division of the Biophysical Society of China, Xiamen, China, 10/2023 <br>
 "Enzymatic Reaction Prediction by Graph Neural Networks" <br>
 * Oral talk, 18th Annual Conference of the Metabolomics Society, Online, 06/2021 <br>
