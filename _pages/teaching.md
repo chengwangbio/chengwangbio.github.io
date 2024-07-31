@@ -10,6 +10,9 @@ I am teaching big data and bioinformatics courses at Shandong University for und
 - Big data techniques and applications (Summer 2022, 2023)
 - Machine learning in biomedical data mining (Spring 2024)
 
+## The Ohio State University
+- Physical Chemistry (4310) (08/2014-05/2016)
+
 <!-- Research plays a central role in my teaching as students improve their
 analytical skills and master the tools of data analysis through hands-on
 experience. I have taught undergraduate courses on political violence and
