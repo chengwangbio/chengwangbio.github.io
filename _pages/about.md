@@ -26,7 +26,7 @@ Graph neural network, machine learning, metabolomics, multi-omics, drug discover
 * Graduate Research Assistant, The Ohio State University, Columbus, OH, 05/2016-12/2019
 
 ## Selected Publications
-1.	Wang, C.,+* Yuan, C.,+ Wang, Y.,+ Shi, Y., Zhang, T. and Patti, G.J.,* 2024. Prediction of Collision Cross-Section Values by Multimodal Graph Attention Network for Accurate Identification of Small Molecules. Journal of Chemical Information and Modeling (Accepted). 
+1.	Wang, C.,+* Yuan, C.,+ Wang, Y.,+ Shi, Y., Zhang, T. and Patti, G.J.,* 2024. Prediction of Collision Cross-Section Values by Multimodal Graph Attention Network for Accurate Identification of Small Molecules. Journal of Chemical Information and Modeling (Cover article). 
 2.	Wang, C., Yuan, C., Wang, Y., Chen, R., Shi, Y., Zhang, T., Xue, F., Patti, G.J.,* Wei, L.* and Hou, Q.,* 2023. MPI-VGAE: protein–metabolite enzymatic reaction link learning by variational graph autoencoders. Briefings in Bioinformatics, p.bbad189.
 3.	Wang, C., Timári, I., Zhang, B., Li, D.W., Leggett, A., Amer, A.O., Bruschweiler-Li, L., Kopec, R.E. and Brüschweiler, R.,* 2020. COLMAR Lipids Web Server and Ultrahigh-Resolution Methods for Two-Dimensional Nuclear Magnetic Resonance-and Mass Spectrometry-Based Lipidomics. Journal of proteome research, 19(4), pp.1674-1683.
 4.	Wang, C., Zhang, B., Timári, I., Somogyi, Á., Li, D.W., Adcox, H.E., Gunn, J.S., Bruschweiler-Li, L. and Brüschweiler, R.,* 2019. Accurate and efficient determination of unknown metabolites in metabolomics by NMR-based molecular motif identification. Analytical chemistry, 91(24), pp.15686-15693.
